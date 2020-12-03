@@ -6,3 +6,5 @@ const test = () => {
 
   console.log(a + b);
 };
+
+const test2 = 1;
