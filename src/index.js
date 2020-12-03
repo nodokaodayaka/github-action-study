@@ -8,3 +8,5 @@ const test = () => {
     a + b 
     );
 };
+
+const test2 = 1    ;
